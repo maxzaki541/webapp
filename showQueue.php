@@ -132,9 +132,9 @@ var i=0;
                 echo "<table border='1' align='center' width='1500'>";
                 echo "
                 <tr align='center' bgcolor='#66CCFF'>
-                    <td><font size='25'>ช่องที่ 1</td>
-                    <td><font size='25'>ช่องที่ 2</td>
-                    <td><font size='25'>ช่องที่ 3</td> 
+                    <td><font size='25'>ห้องที่ 1</td>
+                    <td><font size='25'>ห้องที่ 2</td>
+                    <td><font size='25'>ห้องที่ 3</td> 
                 </tr>";
                 echo "<tr>";
                 $ii=0;

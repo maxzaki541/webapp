@@ -50,5 +50,7 @@ label:hover {cursor:hand;}
 
 </html>
 <script>
+
     window.print();
+    
 </script>

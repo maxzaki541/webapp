@@ -24,7 +24,7 @@
         header("location:../../index_type.php");
     }
     else {  
-        $_SESSION['error'] = "รหัสผ่านไม่ถูกต้อง";  
+        $_SESSION['error'] = "การเข้าสู่ระบบผิดพลาด";  
         header("location:../../index.php");  
         
     }  

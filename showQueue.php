@@ -29,6 +29,7 @@ var i=0;
             if(i==10){
                 location.reload()
             }
+            
                 
             i++;
             }
